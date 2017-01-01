@@ -1,2 +1,2 @@
 # alexa_youtube_kodi
-Alexa skill to search for youtube videos with alexa and send to kodi
+Lambda code to provide an amazon alexa skill to play youtube videos on kodi
